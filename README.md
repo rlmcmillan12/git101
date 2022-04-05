@@ -2,6 +2,7 @@
 ## Intro
 
 This is the test repo for git practice.
+THis is another sentence.
 
 ### More Detail
 - hello
